@@ -1,4 +1,4 @@
-## Fala devs! 
+## Hello devs! 
 
 <div align="center">
   <a href="https://github.com/FranBernardo">
